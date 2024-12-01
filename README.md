@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋, I'm Dicky Al Fayed  
+
+A passionate Full**stuck** Developer from Indonesia who loves turning ideas into reality through code.  
+With a keen interest in web, mobile, and API development, I strive to create seamless digital experiences.  
+
+🌏 Based in Indonesia  
+💻 Building innovative solutions, one line of code at a time  
+🚀 Always learning, always growing  
+
+Let's connect and make something awesome together!  
 
 # 💫 About Me:
 🔭 I’m currently working on Resly Pty Ltd.<br>👯 I’m looking to collaborate on web projects, mobile apps, desktop applications, and REST API development.<br>🌱 I’m currently learning Ruby on Rails.<br>💬 Ask me about Express, TALL stack, and Next.js.<br>⚡ Fun fact: I can debug faster than I can make coffee! ☕
